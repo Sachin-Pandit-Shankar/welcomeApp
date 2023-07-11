@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #1e293b;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.welcome-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.heading {
+  color: #f0bb03;
+  font-family: 'Bree serif';
+  font-size: 80px;
+  font-weight: bold;
+}
+.text {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Bree Serif';
+}
+.subscribe-button {
+  background-color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  border: none;
+  border-radius: 15px;
+  height: 50px;
+  width: 120px;
+  color: #1e293b;
+  font-weight: bold;
+}
